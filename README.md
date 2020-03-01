@@ -11,4 +11,8 @@ The classic game of guessing a word.
 ##### Project 3: Collections
 Playing with linked lists and arrays, CRUD operations, and testing. 
 
+##### Runner: 
+A game developed in Processing where the player has to try to stop the runner from reaching the other side. 
+A very rudimentary sniper style game. 
+
 
